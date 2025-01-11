@@ -1,8 +1,10 @@
-# Sobre "Escape the Honeypot"
+# Escape the Honeypot
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 **Escape the Honeypot** é um jogo interativo baseado no navegador, projetado para ensinar aos jogadores o conceito de honeypots de maneira divertida e envolvente. Neste jogo, os jogadores navegam por um labirinto baseado em uma grade, tentando alcançar o objetivo sem pisar nos honeypots. Cada honeypot atua como uma armadilha, representando o conceito real de detectar atividades maliciosas.
+
+![Captura de Tela Principal](img/1.png)
 
 ## Recursos:
 
