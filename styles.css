@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 20px;
+    color: #ff5252;
+}
+
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(10, 50px);
+    grid-template-rows: repeat(10, 50px);
+    gap: 5px;
+    justify-content: center;
+    margin: 20px auto;
+    border: 2px solid #444;
+}
+
+.cell {
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    border: 1px solid #444;
+}
+
+.cell.player {
+    background-color: #4caf50;
+}
+
+.cell.honeypot {
+    background-color: #ff5252;
+}
+
+.cell.goal {
+    background-color: #ffd700;
+}
+
+#status {
+    margin-top: 20px;
+}
+
+#timer {
+    font-weight: bold;
+    color: #4caf50;
+}
+
+#game-status {
+    font-weight: bold;
+    color: #ffd700;
+}
