@@ -26,11 +26,7 @@
 - **CSS**: Para estilizar e projetar o tabuleiro do jogo.
 - **JavaScript**: Para implementar a lógica do jogo e a interatividade.
 
-## Como Rodar o Jogo:
-
-1. Baixe ou clone o repositório para sua máquina local.
-2. Abra o arquivo `index.html` no seu navegador favorito.
-3. Jogue o jogo e divirta-se!
+#
 
 **Escape the Honeypot** combina educação e entretenimento, tornando os conceitos de cibersegurança acessíveis e divertidos.
 
